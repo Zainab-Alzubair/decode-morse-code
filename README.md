@@ -113,44 +113,17 @@ Clone this repository to your desired folder:
    
    _cd PATH_
    
-   _npm install_
-      
-   _npm run build_
-   
-   _npm start_
-
-### Install
-
-Install this project with:
-
-```sh
-  npm install
-```
 
 ### Usage
 
 To run the project, execute the following command:
 
 ```sh
-  npm start
+ rbenv install 2.5.3
 ```
-
-
-### Run tests
-
-To run tests, run the following command:
-
 ```sh
-  npm test
+ bundle install
 ```
-
-### Deployment <a name="triangular_flag_on_post-deployment"></a>
-
-You can deploy this project using:
-```sh
-  npm start
-```
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
